@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Harilick">
+</Property><Property Name="Solution File" Value="D:\HFF\soft\Haralick-2D\Harilick.sln">
+</Property><Property Name="User Options File" Value="D:\HFF\soft\Haralick-2D\Harilick.suo">
+</Property><Property Name="Date" Value="Tuesday, September 11, 2012">
+</Property><Property Name="Time" Value="10:11 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Harilick.sln" Description="File successfully backed up as D:\HFF\soft\Haralick-2D\Harilick.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="Harilick.suo" Description="File successfully backed up as D:\HFF\soft\Haralick-2D\Harilick.suo.old">
+</Event><Event ErrorLevel="0" Project="Harilick" Source="Harilick\Harilick.vcproj" Description="Converting project file 'D:\HFF\soft\Haralick-2D\Harilick\Harilick.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Harilick" Source="Harilick\Harilick.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="Harilick" Source="Harilick\Harilick.vcproj" Description="Done converting to new project file 'D:\HFF\soft\Haralick-2D\Harilick\Harilick.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Harilick" Source="Harilick\Harilick.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Harilick.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Harilick.sln" Description="Converted">
+</Event></UpgradeLog>
